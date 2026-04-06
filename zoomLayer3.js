@@ -1043,7 +1043,7 @@ var relatedBoxContents = {
   social_support_stress_regulation: {
     title: "Social Support &#8594; Stress Regulation",
     explanation:
-      "The buffering model of social support hypothesizes that social support acts as a buffer to stress and allows an individual to more effectively manage and regulate stress  <span style='color:gray'> [Cohen and Willis 1985]</span>. Social support has been shown to reduce physiological distress, including anxiety and depression  <span style='color:gray'> [Fleming 1982][Lin 1999][Sarason 1997][Taylor 2011]</span>.        <br><br><br> <span style='color:gray'> Cohen, S., & Wills, T. A. (1985). Stress, Social Support, and the Buffering Hypothesis. Psychological Bulletin, 98(2), 310–357. <br> Fleming, R., Baum, A., Gisriel, M. M., & Gatchel, R. J. (1982). Mediating influences of social support on stress at Three Mile Island. Journal of human stress, 8(3), 14–22. <br> Lin, N., Ye, X., & Ensel, W. M. (1999). Social support and depressed mood: a structural analysis. Journal of health and social behavior, 40(4), 344–359. <br> Sarason, B. R., Sarason, I. G., & Gurung, R. A. R. (1997). Close personal relationships and health outcomes: A key to the role of social support. In S. Duck (Ed.), Handbook of personal relationships: Theory, research and interventions (2nd ed., pp. 547–573). John Wiley & Sons, Inc. <br> Taylor, S. E. (2011). Social support: A review. The Oxford handbook of health psychology, 1, 189-214. </span>        ",
+      "The buffering model of social support hypothesizes that social support acts as a buffer to stress and allows an individual to more effectively manage and regulate stress  <span style='color:gray'> [Cohen and Willis 1985]</span>. Social support has been shown to reduce physiological distress, including anxiety and depression  <span style='color:gray'> [Fleming 1982][Lin 1999][Sarason 1997][Taylor 2011]</span>. In a longitudinal study of 5 crews with varying missions lengths, NASA researchers found that social support was related to less stress in the evening, but perceived social support had no direct relationship with stress <span style='color:gray'> [Bell et al. 2025]</span>.        <br><br><br> <span style='color:gray'> Cohen, S., & Wills, T. A. (1985). Stress, Social Support, and the Buffering Hypothesis. Psychological Bulletin, 98(2), 310–357. <br> Fleming, R., Baum, A., Gisriel, M. M., & Gatchel, R. J. (1982). Mediating influences of social support on stress at Three Mile Island. Journal of human stress, 8(3), 14–22. <br> Lin, N., Ye, X., & Ensel, W. M. (1999). Social support and depressed mood: a structural analysis. Journal of health and social behavior, 40(4), 344–359. <br> Sarason, B. R., Sarason, I. G., & Gurung, R. A. R. (1997). Close personal relationships and health outcomes: A key to the role of social support. In S. Duck (Ed.), Handbook of personal relationships: Theory, research and interventions (2nd ed., pp. 547–573). John Wiley & Sons, Inc. <br> Taylor, S. E. (2011). Social support: A review. The Oxford handbook of health psychology, 1, 189-214. <br> Bell, S. T., Anderson, S. R., Roma, P. G., Landon, L. B., & Dev, S. I. (2025). Social support from different sources and its relationship with stress in spaceflight analog environments. Frontiers in Psychology, 15. </span>        ",
   },
   social_support_physical_health: {
     title: "Social Support &#8594; Physical Health",
@@ -1866,6 +1866,11 @@ var relatedBoxContents = {
     explanation:
       "Social activities can aid in stress management <span style='color:gray'>[Marks 2001]</span>. A study of 60 dyadic couples (romantic and platonic) showed that a brief (10 minute) affectionate interaction prior to a stressful experience acted as a buffer, limiting the magnitude of cardiovascular arousal <span style='color:gray'>[Pauley 2015]</span>.        <br><br><br> <span style='color:gray'> Marks, M. A., John E. Mathieu, & Stephen J. Zaccaro. (2001). A Temporally Based Framework and Taxonomy of Team Processes. The Academy of Management Review, 26(3), 356–376.  <br> Pauley, P. M., Floyd, K., & Hesse, C. (2015). The stress-buffering effects of a brief dyadic interaction before an acute stressor. Health communication, 30(7), 646-659.        </span>  ",
   },
+    interpersonal_processes_positive_mood: {
+    title: "Interpersonal Processes &#8594; Positive Mood",
+    explanation:
+      "Social interactions and rewarding social relationships are crucial for positive mood and wellbeing. In the International Space Station, crewmembers can connect with friends and family 'almost at will', which is beneficial for crew wellbeing. <span style='color:gray'>[Dev 2023]</span>.    <br><br><br> <span style='color:gray'> Dev, S. I., Dotson, V., Mulavara, A., Nelson, G. A., Schorn, J. M., Whitmire, A. M., Whiting, S. E., & Williams, T. J. (2023). Evidence Report: BMed. NASA. </span>  ",
+  },
   interpersonal_processes_place_attachment: {
     title: "Interpersonal Processes &#8594; Place Attachment",
     explanation:
@@ -1879,7 +1884,7 @@ var relatedBoxContents = {
   stress_regulation_social_support: {
     title: "Social Support &#8594; Stress Regulation",
     explanation:
-      "The buffering model of social support hypothesizes that social support acts as a buffer to stress and allows an individual to more effectively manage and regulate stress  <span style='color:gray'> [Cohen and Willis 1985]</span>. Social support has been shown to reduce physiological distress, including anxiety and depression  <span style='color:gray'> [Fleming 1982][Lin 1999][Sarason 1997][Taylor 2011]</span>.        <br><br><br> <span style='color:gray'> Cohen, S., & Wills, T. A. (1985). Stress, Social Support, and the Buffering Hypothesis. Psychological Bulletin, 98(2), 310–357. <br> Fleming, R., Baum, A., Gisriel, M. M., & Gatchel, R. J. (1982). Mediating influences of social support on stress at Three Mile Island. Journal of human stress, 8(3), 14–22. <br> Lin, N., Ye, X., & Ensel, W. M. (1999). Social support and depressed mood: a structural analysis. Journal of health and social behavior, 40(4), 344–359. <br> Sarason, B. R., Sarason, I. G., & Gurung, R. A. R. (1997). Close personal relationships and health outcomes: A key to the role of social support. In S. Duck (Ed.), Handbook of personal relationships: Theory, research and interventions (2nd ed., pp. 547–573). John Wiley & Sons, Inc. <br> Taylor, S. E. (2011). Social support: A review. The Oxford handbook of health psychology, 1, 189-214. </span>        ",
+      "The buffering model of social support hypothesizes that social support acts as a buffer to stress and allows an individual to more effectively manage and regulate stress  <span style='color:gray'> [Cohen and Willis 1985]</span>. Social support has been shown to reduce physiological distress, including anxiety and depression  <span style='color:gray'> [Fleming 1982][Lin 1999][Sarason 1997][Taylor 2011]</span>. In a longitudinal study of 5 crews with varying missions lengths, NASA researchers found that social support was related to less stress in the evening, but perceived social support had no direct relationship with stress <span style='color:gray'> [Bell et al. 2025]</span>.        <br><br><br> <span style='color:gray'> Cohen, S., & Wills, T. A. (1985). Stress, Social Support, and the Buffering Hypothesis. Psychological Bulletin, 98(2), 310–357. <br> Fleming, R., Baum, A., Gisriel, M. M., & Gatchel, R. J. (1982). Mediating influences of social support on stress at Three Mile Island. Journal of human stress, 8(3), 14–22. <br> Lin, N., Ye, X., & Ensel, W. M. (1999). Social support and depressed mood: a structural analysis. Journal of health and social behavior, 40(4), 344–359. <br> Sarason, B. R., Sarason, I. G., & Gurung, R. A. R. (1997). Close personal relationships and health outcomes: A key to the role of social support. In S. Duck (Ed.), Handbook of personal relationships: Theory, research and interventions (2nd ed., pp. 547–573). John Wiley & Sons, Inc. <br> Taylor, S. E. (2011). Social support: A review. The Oxford handbook of health psychology, 1, 189-214. <br> Bell, S. T., Anderson, S. R., Roma, P. G., Landon, L. B., & Dev, S. I. (2025). Social support from different sources and its relationship with stress in spaceflight analog environments. Frontiers in Psychology, 15. </span>        ",
   },
   stress_regulation_group_living: {
     title: "Group Living &#8594; Stress Regulation",
@@ -2431,6 +2436,11 @@ var relatedBoxContents = {
     explanation:
       "People develop attachment to places that are partially characterized through positive affect, in that places regulate and offer opportunities for privacy and security <span style='color:gray'>[Altman and Low 1992] </span>. Place attachment has been theoretically and emperically linked to quality of life and subject psychological wellbeing  <span style='color:gray'> [Harris et al. 1995][Brown and Perkins 1992] </span>. <br><br><br> <span style='color:gray'> Altman, I., & Low, S. M. (Eds.). (1992). Place Attachment. Springer US. <br> Harris, P. B., Werner, C. M., Brown, B. B., & Ingebritsen, D. (1995). Relocation and privacy regulation: A cross-cultural analysis. Journal of environmental psychology, 15(4), 311-320. <br> Brown, B. B., & Perkins, D. D. (1992). Disruptions in Place Attachment. In I. Altman & S. M. Low (Eds.), Place Attachment (pp. 279–304). Springer US. </span> ",
   },
+    positive_mood_interpersonal_processes: {
+    title: "Interpersonal Processes &#8594; Positive Mood",
+    explanation:
+      "Social interactions and rewarding social relationships are crucial for positive mood and wellbeing. In the International Space Station, crewmembers can connect with friends and family 'almost at will', which is beneficial for crew wellbeing. <span style='color:gray'>[Dev 2023]</span>.    <br><br><br> <span style='color:gray'> Dev, S. I., Dotson, V., Mulavara, A., Nelson, G. A., Schorn, J. M., Whitmire, A. M., Whiting, S. E., & Williams, T. J. (2023). Evidence Report: BMed. NASA. </span>  ",
+  },
 };
 
 clickedBox = null;
@@ -2744,6 +2754,7 @@ document.addEventListener("DOMContentLoaded", function () {
           "trust",
           "stress_regulation",
           "place_attachment",
+          "positive_mood"
         ];
       case "stress_regulation":
         return [
@@ -3384,6 +3395,7 @@ document.addEventListener("DOMContentLoaded", function () {
           "fixtures",
           "reconfigurability",
           "place_attachment",
+          "interpersonal_processes"
         ];
       default:
         return [];
