@@ -3231,6 +3231,7 @@ document.addEventListener("DOMContentLoaded", function () {
           "neuroticism",
           "circulation",
           "layout",
+          "positive_mood"
         ];
       case "stress_regulation":
         return [
