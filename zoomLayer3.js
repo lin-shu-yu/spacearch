@@ -156,7 +156,7 @@ var boxContents = {
   psychological_resources: {
     title: "Psychological Resources",
     explanation:
-      "Resources availbale for psychological and emotional support. <br><br> NASA provides operational psychology services for the International Space Station crew and their families. This includes private medical conferences with mental health specialists every two weeks, arranging care packages, regular cognitive function tests, and private family conferences <span style='color:gray'>[Sipes and Ark 2005]</span>.       <br><br><br> <span style='color:gray'> Sipes, W. E., & Ark, S. T. V. (2005). Operational Behavioral Health and Performance Resources for International Space Station Crews and Families. Aviation, Space, and Environmental Medicine, 76(6). </span>    ",
+      "Resources available for psychological and emotional support. <br><br> NASA provides operational psychology services for the International Space Station crew and their families. This includes private medical conferences with mental health specialists every two weeks, arranging care packages, regular cognitive function tests, and private family conferences <span style='color:gray'>[Sipes and Ark 2005]</span>.       <br><br><br> <span style='color:gray'> Sipes, W. E., & Ark, S. T. V. (2005). Operational Behavioral Health and Performance Resources for International Space Station Crews and Families. Aviation, Space, and Environmental Medicine, 76(6). </span>    ",
   },
   training_and_preparation: {
     title: "Training and Preparation",
@@ -518,7 +518,7 @@ var relatedBoxContents = {
   psychological_resources_psychological_resources: {
     title: "Psychological Resources",
     explanation:
-      "Resources availbale for psychological and emotional support. <br><br> NASA provides operational psychology services for the International Space Station crew and their families. This includes private medical conferences with mental health specialists every two weeks, arranging care packages, regular cognitive function tests, and private family conferences <span style='color:gray'>[Sipes and Ark 2005]</span>.       <br><br><br> <span style='color:gray'> Sipes, W. E., & Ark, S. T. V. (2005). Operational Behavioral Health and Performance Resources for International Space Station Crews and Families. Aviation, Space, and Environmental Medicine, 76(6). </span>    ",
+      "Resources available for psychological and emotional support. <br><br> NASA provides operational psychology services for the International Space Station crew and their families. This includes private medical conferences with mental health specialists every two weeks, arranging care packages, regular cognitive function tests, and private family conferences <span style='color:gray'>[Sipes and Ark 2005]</span>.       <br><br><br> <span style='color:gray'> Sipes, W. E., & Ark, S. T. V. (2005). Operational Behavioral Health and Performance Resources for International Space Station Crews and Families. Aviation, Space, and Environmental Medicine, 76(6). </span>    ",
   },
   training_and_preparation_training_and_preparation: {
     title: "Training and Preparation",
