@@ -1243,7 +1243,7 @@ var relatedBoxContents = {
     psychological_resources_privacy: {
     title: "Privacy &#8594; Psychological Resources",
     explanation:
-      "Support for psychological health occurs mostly in audio-video formats, through Private Family Conferences and Private Medical Conferences. As alluded to in the names of these conferences, privacy is a large factor for conversations with family and doctors. For long-duration missions in small confined spaces, the concern of lack of privacy to support these calls is currently unresolved. </span>        ",
+      "Support for psychological health include support from ground teams and family; cognitive, medical, and sleep monitoring/support; and habitability (e.g., views from the cupola) <span style='color:gray'>[Dev 2023]</span>. A significant portion of support occur in audio-video formats, through Private Family Conferences, Private Medical Conferences, and Private Psychological Conferences. As alluded to in the names of these conferences, privacy is a large factor for conversations with family and doctors. For long-duration missions in small confined spaces, the concern of lack of privacy to support these calls is currently unresolved. <br><br><br> <span style='color:gray'> Dev, S. I., Dotson, V., Mulavara, A., Nelson, G. A., Schorn, J. M., Whitmire, A. M., Whiting, S. E., & Williams, T. J. (2023). Evidence Report: BMed. NASA. </span>    ",
   },
   psychological_resources_ground_support: {
     title: "Ground Support &#8594; Psychological Resources",
@@ -1579,7 +1579,7 @@ var relatedBoxContents = {
     privacy_psychological_resources: {
     title: "Privacy &#8594; Psychological Resources",
     explanation:
-      "Support for psychological health occurs mostly in audio-video formats, through Private Family Conferences and Private Medical Conferences. As alluded to in the names of these conferences, privacy is a large factor for conversations with family and doctors. For long-duration missions in small confined spaces, the concern of lack of privacy to support these calls is currently unresolved. </span>        ",
+      "Support for psychological health include support from ground teams and family; cognitive, medical, and sleep monitoring/support; and habitability (e.g., views from the cupola) <span style='color:gray'>[Dev 2023]</span>. A significant portion of support occur in audio-video formats, through Private Family Conferences, Private Medical Conferences, and Private Psychological Conferences. As alluded to in the names of these conferences, privacy is a large factor for conversations with family and doctors. For long-duration missions in small confined spaces, the concern of lack of privacy to support these calls is currently unresolved. <br><br><br> <span style='color:gray'> Dev, S. I., Dotson, V., Mulavara, A., Nelson, G. A., Schorn, J. M., Whitmire, A. M., Whiting, S. E., & Williams, T. J. (2023). Evidence Report: BMed. NASA. </span>    ",
   },
   privacy_media_attention: {
     title: "Media Attention &#8594; Privacy",
